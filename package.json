@@ -19,6 +19,7 @@
     "lodash": "^3.10.1",
     "multer": "^1.0.3",
     "opencv": "github:peterbraden/node-opencv",
-    "opencv4nodejs": "^4.5.0"
+    "opencv4nodejs": "^4.5.0",
+    "socket.io": "1.2.1"
   }
 }
